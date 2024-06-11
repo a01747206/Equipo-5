@@ -23,7 +23,6 @@ with st.container():
 
 
 #¿que quieres realizar?
-
 with st.container():
     st.write('---')
     text_column, animation_column= st.columns(2)
